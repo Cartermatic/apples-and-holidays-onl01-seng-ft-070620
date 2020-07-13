@@ -90,7 +90,7 @@ def all_holidays_with_bbq(holiday_hash)
       supply.each do [item]
         if item == "BBQ"
           grillin << item(supply)
-        end
+        
         end
       end
     end
